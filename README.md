@@ -1,2 +1,2 @@
 # harrison_board
-harrison ford sound board in python 3
+Sound board of harrison ford clips. Written in Python 3
